@@ -14,3 +14,20 @@
 .container h3 {
     font-size:2em;
 }
+
+.container2 {
+    font-size:12px;
+}
+
+#first {
+    text-align:center;
+}
+
+#second {
+    font-size:10em;
+    padding:2em;
+}
+
+#third {
+    font-size:5em;
+}
