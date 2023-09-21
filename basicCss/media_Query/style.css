@@ -1,0 +1,16 @@
+.container {
+    font-size:20px;
+    
+}
+
+.container p { 
+    font-size:1em;
+}
+
+.container h2 {
+    font-size:3em;
+}
+
+.container h3 {
+    font-size:2em;
+}
