@@ -1,0 +1,37 @@
+.container {
+    font-size:20px;
+    
+}
+
+.container p { 
+    font-size:1em;
+}
+
+.container h2 {
+    font-size:3em;
+}
+
+.container h3 {
+    font-size:2em;
+}
+
+.container2 {
+    font-size:12px;
+}
+
+#first {
+    text-align:center;
+}
+
+#second {
+    font-size:10em;
+    padding:2em;
+}
+
+#third {
+    font-size:5em;
+}
+
+.container3 p {
+    font-size:1.25rem;
+}

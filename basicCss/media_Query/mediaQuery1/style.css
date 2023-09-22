@@ -1,0 +1,30 @@
+/*
+media query syntax:
+@media media-type and (condition : breakpoints)
+
+*/
+
+@media screen and (min-width: 467px){
+    body{
+        background-color:green;
+        background-image:radial-gradient(whitesmoke,green);
+        margin:0;
+    }
+    nav {
+        display:none;
+    }
+}
+
+@media screen and (min-width: 768px){
+    body{
+        background-color:gold;
+        background-image:radial-gradient(whitesmoke,gold);
+    }
+}
+
+@media screen and (min-width:992px){
+    body{
+        background-color:firebrick;
+        background-image:radial-gradient(whitesmoke,firebrick)
+    }
+}
